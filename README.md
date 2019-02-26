@@ -2,4 +2,4 @@
 
 #### Practicals from statistical modelling class.
 
-This is an overview.
+Mathematical extensions of linear regression models allow to overcome assumptions of normality of the data, linearity relationships and variance structure in the model.
