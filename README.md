@@ -4,7 +4,7 @@
 
 Linear regression models a continuous response Y given a continuous or categorical predictor variable x:
 
-$$X_i$$
+X<sub>i</sub>
 
 $ Y_i = β0 + β1xi + ei $
 
