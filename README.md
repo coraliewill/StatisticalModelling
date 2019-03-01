@@ -16,7 +16,7 @@ Mathematical extensions of linear regression models allow to overcome assumption
 
 ## Generalized Linear Models (GLMs)
 
-Generalized Linear Models (GLMs) are extensions of linear regression models.
+Generalized Linear Models (GLMs) are extensions of linear regression models that allow to model response with another error distribution model other than normal.
 
 #### Collinearity
 
