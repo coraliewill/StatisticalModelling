@@ -7,8 +7,8 @@ Linear regression models a continuous response Y given a continuous or categoric
 X<sub>i</sub>
 
 
-Y_i = β0 + β1xi + ei 
-y_i \sim N(x_i^T \beta, \sigma^2) 
+Y<sub>i</sub> = β0 + β1xi + ei 
+y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, \sigma^2) 
 
 
 Mathematical extensions of linear regression models allow to overcome assumptions of normality of the data, linearity relationships and variance structure in the model.
