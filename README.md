@@ -6,8 +6,9 @@ Linear regression models a continuous response Y given a continuous or categoric
 
 X<sub>i</sub>
 
-
 Y<sub>i</sub> = β0 + β1xi + ei 
+
+
 y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, \sigma^2) 
 
 
