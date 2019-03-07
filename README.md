@@ -32,3 +32,5 @@ Generalized Linear Models (GLMs) are extensions of linear regression models that
 Generalized Additive Models (GAMs) are GLMs that allow the relationship between response and predictor variables to be non-linear.
 
 ## Generalized Estimating Equations (GEEs)
+
+Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covariance structure is unspecified (the correlation with outcome is unknown with the models parameters). 
