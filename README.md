@@ -9,7 +9,7 @@ X<sub>i</sub>
 Y<sub>i</sub> = β0 + β1xi + ei 
 
 
-y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, $$\sigma^2$$) 
+y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, sigma^2) 
 
 
 Mathematical extensions of linear regression models allow to overcome assumptions of normality of the data, linearity relationships and variance structure in the model.
