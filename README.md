@@ -18,10 +18,10 @@ Mathematical extensions of linear regression models allow to overcome assumption
 
 Generalized Linear Models (GLMs) are extensions of linear regression models that allow to model response with another error distribution model other than normal.
 There are four main model diagnostics to ensure when fitting a GLM:
-1. Avoid collinearity
-2. Check that the mean-variance relationship is appropriate
-3. The data given the model are independent
-4. Covariates and response are linear on the link scale
+  1. Avoid collinearity
+  2. Check that the mean-variance relationship is appropriate
+  3. The data given the model are independent
+  4. Covariates and response are linear on the link scale
 
 #### Collinearity
 We want to avoid including variables who are . Detecting collinearity between variables can be done using Variance Inflation Factors (VIFs). Collinearity is an issue for calculated model coefficients and standard errors. There is no effect however on model predictions if collinearity is present.
@@ -37,6 +37,7 @@ We want to avoid including variables who are . Detecting collinearity between va
 
 Generalized Additive Models (GAMs) are GLMs that allow the relationship between response and predictor variables to be non-linear.
 
+
 #### Polynomials
 
 #### Truncated power basis
@@ -50,5 +51,6 @@ Generalized Additive Models (GAMs) are GLMs that allow the relationship between 
 Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covariance structure is unspecified (the correlation with outcome is unknown with the models parameters). 
 
 
-## Mixed Effect Models: random intercet and/or random coefficien models
+## Mixed Effect Models: random intercet and/or random coefficient models
 
+yit = B0 + u0i + B1 x1it + eit
