@@ -53,4 +53,9 @@ Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covari
 
 ## Mixed Effect Models: random intercet and/or random coefficient models
 
+### Random Intercept Models
+yit = B0 + u0i + B1 x1it + eit
+
+
+### Random Coefficient Models
 yit = B0 + u0i + B1 x1it + eit
