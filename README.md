@@ -1,6 +1,6 @@
 # Statistical Modelling
 
-#### Practicals from statistical modelling class.
+#### Overview of GLMS, GAMs, GEEs and Mixed Effect Models
 
 Linear regression models a continuous response Y given a continuous or categorical predictor variable x:
 
