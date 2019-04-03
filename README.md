@@ -24,7 +24,14 @@ There are four main model diagnostics to ensure when fitting a GLM:
   4. Covariates and response are linear on the link scale
 
 #### Collinearity
-We want to avoid including variables who are . Detecting collinearity between variables can be done using Variance Inflation Factors (VIFs). Collinearity is an issue for calculated model coefficients and standard errors. There is no effect however on model predictions if collinearity is present.
+We want to avoid including variables who are provide similar information in the same model. Detecting collinearity between variables can be done using Variance Inflation Factors (VIFs). Collinearity is an issue for calculated model coefficients and standard errors. There is no effect however on model predictions if collinearity is present.
+
+##### Ridge Regression
+
+##### Lasso
+
+##### Elastic Net
+
 
 #### Temporal Autocorrelation
 
