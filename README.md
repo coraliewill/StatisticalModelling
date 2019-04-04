@@ -31,7 +31,7 @@ We want to avoid including variables who are provide similar information in the 
 * Lasso 
 
 * Elastic Net 
-
+Combines both ridge regression and lasso.
 
 #### Temporal Autocorrelation
 
@@ -47,7 +47,9 @@ Generalized Additive Models (GAMs) are GLMs that allow the relationship between 
 
 #### Polynomials
 
+
 #### Truncated power basis
+
 
 #### B-splines
 
