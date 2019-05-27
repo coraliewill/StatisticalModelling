@@ -78,5 +78,6 @@ Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covari
 yit = B0 + u0i + B1 x1it + eit
 
 
+
 ### Random Coefficient Models
 yit = B0 + u0i + B1 x1it + eit
