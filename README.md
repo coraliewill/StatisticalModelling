@@ -56,7 +56,6 @@ A final model diagnostic is the checking that the covariate relationships are we
 
 Generalized Additive Models (GAMs) are GLMs that allow the relationship between response and predictor variables to be non-linear.
 
-
 #### Polynomials
 Polynomials are basis expansions functions where there are as many columns as the degree of the polynomial and added as a additive predictor on the scale of the link function.
 
@@ -65,7 +64,6 @@ Truncated power basis are locally defined where each column only has non-zero va
 
 #### B-splines
 B-splines are also locally defined and are piece-wise polynomial functions which are joined smoothly at each "knot".
-
 
 ## Generalized Estimating Equations (GEEs)
 
