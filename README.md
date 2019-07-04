@@ -1,5 +1,7 @@
 # Statistical Modelling
 
+Statistical modelling is a set of mathematical equations that simplifies and formalizes data with the constitution of statistical assumptions.
+
 #### Overview of GLMS, GAMs, GEEs and Mixed Effect Models
 
 Linear regression models a continuous response Y given a continuous or categorical predictor variable x:
