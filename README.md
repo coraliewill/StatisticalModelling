@@ -6,7 +6,7 @@ Statistical modelling is a set of mathematical equations that simplifies and for
 
 Linear regression models a continuous response Y given a continuous or categorical predictor variable x:
 
-X<sub>i</sub>
+\[X_{i}\]
 
 Y<sub>i</sub> = β0 + β1xi + ei 
 
