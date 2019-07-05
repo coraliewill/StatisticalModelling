@@ -8,7 +8,7 @@ Linear regression models a continuous response Y given a continuous or categoric
 
 <img src="https://latex.codecogs.com/gif.latex?X_{i}" title="X_{i}" />
 
-Y<sub>i</sub> = β0 + β1xi + ei 
+<img src="https://latex.codecogs.com/gif.latex?Y_{i}&space;=&space;\beta&space;_{0}&space;&plus;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\varepsilon&space;_{i}" 
 
 y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, sigma ^2) 
 
