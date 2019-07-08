@@ -4,7 +4,7 @@ Statistical modelling is a set of mathematical equations that simplifies and for
 
 #### Overview of GLMS, GAMs, GEEs and Mixed Effect Models
 
-Linear regression models a continuous response <img src="https://latex.codecogs.com/gif.latex?Y" title="Y" /> given a continuous or categorical predictor variable <img src="https://latex.codecogs.com/gif.latex?X_{i}" title="X_{i}" />:
+Linear regression models a continuous response <img src="https://latex.codecogs.com/gif.latex?Y" title="Y" /> given a continuous or categorical predictor variable <img src="https://latex.codecogs.com/gif.latex?X_{i}" title="x_{i}" />:
 
 
 
