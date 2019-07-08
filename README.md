@@ -10,8 +10,9 @@ Linear regression models a continuous response <img src="https://latex.codecogs.
 
 <img src="https://latex.codecogs.com/gif.latex?Y_{i}&space;=&space;\beta&space;_{0}&space;&plus;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\varepsilon&space;_{i}" title="Y_{i} = \beta _{0} + \beta _{1}x_{1} + \varepsilon _{i}" />
 
+<img src="https://latex.codecogs.com/gif.latex?\beta&space;{_{1}^{}}" title="\beta {_{1}^{}}" /> , is the slope of the line, it represents a change in response <img src="https://latex.codecogs.com/gif.latex?Y{_{i}}" title="Y{_{i}}" /> with 1 unit increase in <img src="https://latex.codecogs.com/gif.latex?x{_{i}}" title="x{_{i}}" />. 
 
-y<sub>i</sub> \sim N(x<sub>i</sub>^T \beta, sigma ^2) 
+<img src="https://latex.codecogs.com/gif.latex?Y{_{i}}&space;\sim&space;N(0,&space;\sigma&space;^{2}&space;)" title="Y{_{i}} \sim N(0, \sigma ^{2} )" />
 
 
 Mathematical extensions of linear regression models allow to overcome assumptions of normality of the data, linearity relationships and variance structure in the model.
