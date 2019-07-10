@@ -28,14 +28,12 @@ There are four main model diagnostics to ensure when fitting a GLM:
   4. Covariates and response are linear on the link scale
 
 #### Collinearity
-We want to avoid including variables who are provide similar information in the same model. 
+We want to avoid including predictor variables that provide similar information in the same model. 
 
-The response data contains both signal, describing the underlying mean function of the process, and noise, the variability of the points about the underlying mean function. 
+The response data contains both *signal*, describing the underlying mean function of the process, and *noise*, the variability of the points about the underlying mean function. 
 We want a bias-variance trade-off.
 
 Detecting collinearity between variables can be done using Variance Inflation Factors (VIFs). Collinearity is an issue for calculated model coefficients and standard errors. There is no effect however on model predictions if collinearity is present.
-
-
 
 * Ridge Regression 
 
@@ -55,7 +53,6 @@ Wald-Wolfowitz runs test help diagnose non-independence in the model errors.
 A final model diagnostic is the checking that the covariate relationships are well described as linear on the link scale. 
 
 
-
 ## Generalized Additive Models (GAMs)
 
 Generalized Additive Models (GAMs) are GLMs that allow the relationship between response and predictor variables to be non-linear.
@@ -73,12 +70,10 @@ B-splines are also locally defined and are piece-wise polynomial functions which
 
 Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covariance structure is unspecified (the correlation with outcome is unknown with the models parameters). 
 
-
 ## Mixed Effect Models: random intercet and/or random coefficient models
 
 ### Random Intercept Models
 yit = B0 + u0i + B1 x1it + eit
-
 
 
 ### Random Coefficient Models
