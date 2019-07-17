@@ -42,8 +42,10 @@ Combines both ridge regression and lasso.
 We want the data, given the model, to be independent meaning we assume the residuals of the model to be independent having no patterns or present autocorrelations.
 
 * Diagnosing temporal autocorrelations:
-Wald-Wolfowitz runs test help diagnose non-independence in the model errors.
-* 
+Wald-Wolfowitz runs test help diagnose non-independence in the model errors. The test statistic 
+
+* Positive correlation
+To overcome positive correlation Generalized Estimating Equations (GEEs) could be used.
 
 #### Nonlinearity on the link scale 
 A final model diagnostic is the checking that the covariate relationships are well described as linear on the link scale. 
