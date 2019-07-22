@@ -23,6 +23,7 @@ There are four main model diagnostics to ensure when fitting a GLM:
   3. The data given the model are independent
   4. Covariates and response are linear on the link scale
 
+
 #### Collinearity
 We want to avoid including predictor variables that provide similar information in the same model. 
 
