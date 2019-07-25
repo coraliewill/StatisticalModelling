@@ -13,6 +13,7 @@ A simple linear regression investigates the linear relationship between a contin
 
 Mathematical extensions of linear regression models allow to overcome assumptions of normality of the data, linearity relationships and variance structure in the model.
 
+A function lm() in R Statistical software package.
 
 ## Generalized Linear Models (GLMs)
 
