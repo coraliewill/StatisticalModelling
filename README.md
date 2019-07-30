@@ -2,6 +2,7 @@
 
 Statistical modelling is a set of mathematical equations that simplifies and formalizes data with the constitution of statistical assumptions. A common statistical model analysis is regression, which estimates the relationship among variables.
 
+
 A simple linear regression investigates the linear relationship between a continuous response <img src="https://latex.codecogs.com/gif.latex?Y" title="Y" /> and a continuous or categorical predictor variable <img src="https://latex.codecogs.com/gif.latex?X_{i}" title="x_{i}" />:
 
 <img src="https://latex.codecogs.com/gif.latex?Y_{i}&space;=&space;\beta&space;_{0}&space;&plus;&space;\beta&space;_{1}x_{1}&space;&plus;&space;\varepsilon&space;_{i}" title="Y_{i} = \beta _{0} + \beta _{1}x_{1} + \varepsilon _{i}" />
