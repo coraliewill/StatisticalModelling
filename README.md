@@ -55,7 +55,6 @@ A final model diagnostic is the checking that the covariate relationships are we
 
 
 ## Generalized Additive Models (GAMs)
-
 Generalized Additive Models (GAMs) are GLMs that allow the relationship between response and predictor variables to be non-linear.
 
 #### Polynomials
