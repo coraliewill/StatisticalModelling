@@ -16,6 +16,8 @@ Mathematical extensions of linear regression models allow to overcome assumption
 
 A function lm() in R Statistical software package.
 
+
+
 ## Generalized Linear Models (GLMs)
 
 Generalized Linear Models (GLMs) are extensions of linear regression models that allow to model response with another error distribution model other than normal.
