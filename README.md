@@ -72,11 +72,13 @@ B-splines are also locally defined and are piece-wise polynomial functions which
 
 Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covariance structure is unspecified (the correlation with outcome is unknown with the models parameters). 
 
-## Mixed Effect Models: random intercet and/or random coefficient models
+## Mixed Effect Models: random intercept and/or random coefficient models
+
+Mixed effect models allow for either the intercept and/or the coefficient to differ accross values.
+
 
 ### Random Intercept Models
 yit = B0 + u0i + B1 x1it + eit
-
 
 ### Random Coefficient Models
 yit = B0 + u0i + B1 x1it + eit
