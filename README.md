@@ -68,6 +68,7 @@ Truncated power basis are locally defined where each column only has non-zero va
 B-splines are also locally defined and are piece-wise polynomial functions which are joined smoothly at each "knot".
 
 
+
 ## Generalized Estimating Equations (GEEs)
 
 Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covariance structure is unspecified (the correlation with outcome is unknown with the models parameters). GEEs help model correlated data, for example repeated measures over time of a group of subjects.
