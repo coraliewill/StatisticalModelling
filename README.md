@@ -37,8 +37,10 @@ We want a bias-variance trade-off.
 Detecting collinearity between variables can be done using Variance Inflation Factors (VIFs). Collinearity is an issue for calculated model coefficients and standard errors. There is no effect however on model predictions if collinearity is present.
 
 * Ridge Regression 
+Penalty controlled by alpha shrinks coefficients of variables, but retains all variables in the model.
 
 * Lasso 
+Penalty controlled by lambda, where certain coefficients are reduced to zero, performing a variable selection.
 
 * Elastic Net 
 Combines both ridge regression and lasso.
