@@ -45,13 +45,14 @@ Penalty controlled by lambda, where certain coefficients are reduced to zero, pe
 * Elastic Net 
 Combines both ridge regression and lasso.
 
+
 #### Temporal Autocorrelation
 We want the data, given the model, to be independent meaning we assume the residuals of the model to be independent having no patterns or present autocorrelations.
 
-* Diagnosing temporal autocorrelations:
+*Diagnosing temporal autocorrelations:*
 Wald-Wolfowitz runs test help diagnose non-independence in the model errors. The test statistic 
 
-* Positive correlation
+*Positive correlation*
 To overcome positive correlation Generalized Estimating Equations (GEEs) could be used.
 
 #### Nonlinearity on the link scale 
@@ -82,7 +83,6 @@ Genereralized Estimating Equations (GEEs) are extensions of GLMs when the covari
 Mixed effect models allow for either the intercept and/or the coefficient to differ accross values.
 
 ### Random Intercept Models
-
 
 <img src="https://latex.codecogs.com/gif.latex?Y_{it}&space;=&space;\beta&space;_{0}&space;&plus;u_{0it}&space;&plus;&space;\beta&space;_{1}x_{1it}&space;&plus;&space;\varepsilon&space;_{it}" title="Y_{it} = \beta _{0} + u_{0i} + \beta _{1}x_{1it} + \varepsilon _{it}" />
 
